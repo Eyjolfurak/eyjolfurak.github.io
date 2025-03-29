@@ -33,7 +33,7 @@ author:
   name: Eyjolfur Kristjansson
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: jekyll-theme-slate
 
 
 plugins:
