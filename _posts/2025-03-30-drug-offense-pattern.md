@@ -6,7 +6,7 @@ categories: dataviz
 ---
 
 
-This post will explore when drug offenses occur throughout the day using data from the SF Crime dataset.
+This post explores when and where drug offenses occur in San Francisco using data from 2003–2024.
 
 <!-- Visualization and content will go here -->
 
@@ -16,8 +16,14 @@ The polar plot below shows the frequency of drug offenses reported in San Franci
 
 ![Polar Plot of Drug Offenses](/assets/img/drug_hourly_polar.png)
 
-## Interactive Map of Drug Offense Distribution
+
+## Where Do Drug Offenses Happen?
+
+The interactive map below shows the number of drug-related crimes across different police districts in San Francisco. Click around to explore.
 
 <iframe src="/assets/drug_map.html" width="100%" height="600" frameborder="0"></iframe>
 
 Or [open the map in a new tab](/assets/drug_map.html).
+
+---
+
