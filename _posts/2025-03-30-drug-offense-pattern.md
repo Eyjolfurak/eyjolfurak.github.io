@@ -27,3 +27,6 @@ Or [open the map in a new tab](/assets/drug_map.html).
 
 ---
 
+## Interactive Trends in Drug Offenses
+
+<iframe src="/assets/drug_trends_bars.html" width="100%" height="600" frameborder="0"></iframe>
