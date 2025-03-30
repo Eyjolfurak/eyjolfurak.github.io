@@ -5,6 +5,7 @@ date: 2025-03-30
 categories: dataviz
 ---
 
+
 This post will explore when drug offenses occur throughout the day using data from the SF Crime dataset.
 
 <!-- Visualization and content will go here -->
@@ -14,3 +15,9 @@ This post will explore when drug offenses occur throughout the day using data fr
 The polar plot below shows the frequency of drug offenses reported in San Francisco across the 24-hour day. Notice the concentration of offenses in late afternoon and evening hours.
 
 ![Polar Plot of Drug Offenses](/assets/img/drug_hourly_polar.png)
+
+## Interactive Map of Drug Offense Distribution
+
+<iframe src="/assets/drug_map.html" width="100%" height="600" frameborder="0"></iframe>
+
+Or [open the map in a new tab](/assets/drug_map.html).
