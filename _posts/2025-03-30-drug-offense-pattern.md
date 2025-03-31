@@ -29,5 +29,9 @@ Or [open the map in a new tab](/assets/drug_map.html).
 
 ## Interactive Trends in Drug Offenses
 
+## Interactive Trends in Drug Offenses
+
 <object data="/assets/drug_trends_bars.html" width="100%" height="600"></object>
+
+Or [open it in a new tab](/assets/drug_trends_bars.html).
 
