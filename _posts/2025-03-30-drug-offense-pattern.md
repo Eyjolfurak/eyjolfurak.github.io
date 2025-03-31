@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Patterns in Drug Offense Crimes in San Fransisco"
+title: "Patterns in Drug Offense Crimes in San Francisco"
 date: 2025-03-30
 categories: dataviz
 ---
