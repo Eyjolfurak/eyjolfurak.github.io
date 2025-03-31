@@ -33,8 +33,20 @@ author:
   name: Eyjolfur Kristjansson
 
 # Build settings
-theme: jekyll-theme-cayman
 
+sass:
+  style: compressed
+
+# Optional: include your custom stylesheet
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      css: "/assets/css/custom.css"
+
+theme: jekyll-theme-cayman
 
 plugins:
   - jekyll-feed
