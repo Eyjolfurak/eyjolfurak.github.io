@@ -9,6 +9,7 @@ categories: dataviz
 <br>
 
 <span style="font-style: italic; font-size: 16px;">
+Assignment 2
 Author: Eyjólfur Axel Kristjánsson (s242736)
 </span>
 
