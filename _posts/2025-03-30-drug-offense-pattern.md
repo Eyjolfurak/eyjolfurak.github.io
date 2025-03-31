@@ -8,6 +8,10 @@ categories: dataviz
 <br><br>
 # Patterns in Drug Offense Crimes in San Francisco
 
+<span style="font-style: italic; font-size: 16px;">
+Author: Eyjólfur Axel Kristjánsson (s242736)
+</span>
+
 This post explores when and where drug offenses occur in San Francisco using data from 2003–2024. The data is drawn from the San Francisco Police Department’s publicly available crime incident reports. Each record includes information such as the type of crime, time of day, police district, and year. For this story, the focus is specifically on drug-relate crimes.
 
 While drug use and policy enforcement vary by neighborhood and over time, this analysis highlights broader spatial and temporal trends in drug-related incidents reported to the police. By visualizing the data in three different ways, we aim to uncover when drug crimes most frequently happen during the day, in what districts do they tend to occur, and how those patterns have evolved across time.
@@ -20,7 +24,7 @@ The polar plot below displays the relative frequency of drug-related offenses re
 
 <img src="/assets/img/drug_hourly_polar.png" alt="Polar Plot of Drug Offenses" style="width:30%; display:block; margin:auto;" />
 
-We observe a clear pattern: drug offenses are less frequent in the early morning hours, then gradually increase during the day, peaking in the late afternoon and evening. Notice that they rarely happen during the night time which might be an interesting finding to most. This trend likely reflects a combination of human behavior (more activity in public spaces in the evening) and police enforcement patterns. [^1] 
+We observe a clear pattern: drug offenses are less frequent in the early morning hours, then gradually increase during the day, peaking in the late afternoon and evening. Notice that they rarely happen during the night time which might be an interesting finding to most. This trend likely reflects a combination of human behavior (more activity in public spaces in the evening) and police enforcement patterns where less officers are working late evenings. [^1] 
 
 ## Where Do Drug Offenses Happen?
 
