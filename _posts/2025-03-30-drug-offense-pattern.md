@@ -38,7 +38,7 @@ Certain areas—particularly the Tenderloin and Southern districts—stand out a
 
 The following interactive chart shows the number of drug offenses in each district by year from 2003 to 2024. You can click on each district in the legend to isolate trends or mute others for clarity.
 
-<iframe src="/assets/drug_trends_bars.html" width="120%" height="300" frameborder="0"></iframe>
+<iframe src="/assets/drug_trends_bars.html" width="120%" height="350" frameborder="0"></iframe>
 
 Or [open the chart in a new tab](/assets/drug_trends_bars.html).
 
