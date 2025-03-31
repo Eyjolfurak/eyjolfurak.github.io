@@ -5,12 +5,17 @@ date: 2025-03-30
 categories: dataviz
 ---
 
-<br><br>
-# Patterns in Drug Offense Crimes in San Francisco
+
 
 <span style="font-style: italic; font-size: 16px;">
 Author: Eyjólfur Axel Kristjánsson (s242736)
 </span>
+
+<br><br>
+
+# Patterns in Drug Offense Crimes in San Francisco
+
+
 
 This post explores when and where drug offenses occur in San Francisco using data from 2003–2024. The data is drawn from the San Francisco Police Department’s publicly available crime incident reports. Each record includes information such as the type of crime, time of day, police district, and year. For this story, the focus is specifically on drug-relate crimes.
 
