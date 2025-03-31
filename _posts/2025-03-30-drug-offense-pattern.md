@@ -29,7 +29,7 @@ Or [open the map in a new tab](/assets/drug_map.html).
 
 ## Interactive District Trends (Bokeh)
 
-<iframe src="/assets/drug_trends_bars.html" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="/assets/drug_trends_bars.html" width="120%" height="600" frameborder="0"></iframe>
 
 Or [open the chart in a new tab](/assets/drug_trends_bars.html).
 
