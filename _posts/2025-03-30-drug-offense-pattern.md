@@ -42,12 +42,16 @@ The following interactive chart shows the number of drug offenses in each distri
 
 Or [open the chart in a new tab](/assets/drug_trends_bars.html).
 
-There was a notable rise in drug-related offenses from 2004 to 2009, followed by a general decline until around 2016. Interestingly, there is a small increase in some districts in the most recent years. This pattern may reflect changing city policies, public health approaches, or even broader social and economic trends—such as the impact of the opioid epidemic or post-pandemic urban shifts.
-
-### References
+There was a notable rise in drug-related offenses from 2004 to 2009, followed by a general decline until around 2016. One of the main reasons for the drop in drug-related crimes in San Francisco between 2008 and 2016 was a change in police enforcement and prosecution policies. After scandals involving the San Francisco Police Department’s drug arrests, both the police and the District Attorney’s office reduced the number of drug-related felony arrests and filings. This shift led to fewer people being arrested and charged for drug offenses during that period. [^3]
+After that drug related crimes began to increase again and that might be a result of the pandemic that started in 2019 where health officials belived that people feeling isolated and depressed lead to increased drug use. [^4]
 
 ### References
 
 [^1]: Ratcliffe, J. H. (2010). *Crime mapping: spatial and temporal challenges*. In Handbook of Quantitative Criminology (pp. 5–24). Springer. https://doi.org/10.1007/978-0-387-77650-7_2
 
 [^2]: CNN. (2023, September 3). *San Francisco’s Tenderloin is ground zero for the city’s drug crisis*. Retrieved from [https://edition.cnn.com/2023/09/03/us/san-francisco-tenderloin-drug-market/index.html](https://edition.cnn.com/2023/09/03/us/san-francisco-tenderloin-drug-market/index.html)
+
+[^3]: Justice Atlas for All. *Reforming San Francisco’s Criminal Justice System: A Decade of Progress.* Retrieved from [https://probation.acgov.org/probation-assets/files/resources-info/Reforming%20San%20Franciscos%20Criminal%20Justice%20System-JA4.pdf](https://probation.acgov.org/probation-assets/files/resources-info/Reforming%20San%20Franciscos%20Criminal%20Justice%20System-JA4.pdf)
+
+[^4]: San Francisco Chronicle. (2024). *Tracking San Francisco’s drug overdose crisis*. Retrieved from [https://www.sfchronicle.com/projects/san-francisco-drug-overdose-deaths/](https://www.sfchronicle.com/projects/san-francisco-drug-overdose-deaths/)
+
