@@ -29,18 +29,22 @@ While drug use and policy enforcement vary by neighborhood and over time, this a
 
 ### When Do Drug Offenses Occur?
 
-The polar plot below displays the relative frequency of drug-related offenses reported throughout the 24-hour day. Each bar represents an hour, and the length of the bar indicates how common drug crimes are during that period.
+The drug offenses can occur at any time of the day. On the polar plot below you can see the relative frequency of drug-related offenses reported throughout the 24-hour day. Each bar represents an hour, and the length of the bar indicates how common drug crimes are during that period. note that this is the total value of the whole period from 2003-2024.
 
 <img src="/assets/img/drug_hourly_polar.png" alt="Polar Plot of Drug Offenses" style="width:30%; display:block; margin:auto;" />
+<p style="text-align: center;"><strong>Fig. 1:</strong> Hourly distribution of drug-related offenses in San Francisco (2003–2024).</p>
+
 
 We observe a clear pattern: drug offenses are less frequent in the early morning hours, then gradually increase during the day, peaking in the late afternoon and evening. Notice that they rarely happen during the night time which might be an interesting finding to most. This trend likely reflects a combination of human behavior (more activity in public spaces in the evening) and police enforcement patterns where less officers are working late evenings. [^1] 
 
 ## Where Do Drug Offenses Happen?
 
-
-The map below shows the number of drug-related incidents per police district. It allows you to explore geographic variation by hovering or zooming in on districts across San Francisco.
+If you were trying to keep away from the neighborhoods with most drug related crimes it might be good to visualize the zones in San Francisco to see the hottest/busiest areas.
+The map below shows the number of drug-related incidents per police district to vizualize this data. It allows you to explore geographic variation by hovering or zooming in on districts across San Francisco.
 
 <iframe src="/assets/drug_map.html" width="100%" height="600" frameborder="0"></iframe>
+<p style="text-align: center;"><strong>Fig. 2:</strong> Geographic distribution of drug-related crimes by police district.</p>
+
 
 Or [open the map in a new tab](/assets/drug_map.html).
 
@@ -54,6 +58,8 @@ Certain areas—particularly the Tenderloin and Southern districts—stand out a
 The following interactive chart shows the number of drug offenses in each district by year from 2003 to 2024. You can click on each district in the legend to isolate trends or mute others for clarity.
 
 <iframe src="/assets/drug_trends_bars.html" width="120%" height="395" frameborder="0"></iframe>
+<p style="text-align: center;"><strong>Fig. 3:</strong> Trends in drug offenses by district from 2003 to 2024 (interactive).</p>
+
 
 Or [open the chart in a new tab](/assets/drug_trends_bars.html).
 
