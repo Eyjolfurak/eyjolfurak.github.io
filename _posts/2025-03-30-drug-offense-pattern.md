@@ -16,7 +16,7 @@ While drug use and policy enforcement vary by neighborhood and over time, this a
 
 The polar plot below displays the relative frequency of drug-related offenses reported throughout the 24-hour day. Each bar represents an hour, and the length of the bar indicates how common drug crimes are during that period.
 
-![Polar Plot of Drug Offenses](/assets/img/drug_hourly_polar.png)
+<img src="/assets/img/drug_hourly_polar.png" alt="Polar Plot of Drug Offenses" style="width:60%; display:block; margin:auto;" />
 
 We observe a clear pattern: drug offenses are less frequent in the early morning hours, then gradually increase during the day, peaking in the late afternoon and evening. Notice that they rarely happen during the night time which might be an interesting finding to most. This trend likely reflects a combination of human behavior (more activity in public spaces in the evening) and police enforcement patterns. [^1] 
 
