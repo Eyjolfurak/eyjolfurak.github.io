@@ -18,7 +18,7 @@ The polar plot below displays the relative frequency of drug-related offenses re
 
 ![Polar Plot of Drug Offenses](/assets/img/drug_hourly_polar.png)
 
-We observe a clear pattern: drug offenses are less frequent in the early morning hours, then gradually increase during the day, peaking in the late afternoon and evening. This trend likely reflects a combination of human behavior (more activity in public spaces in the evening) and police enforcement patterns. [^1]
+We observe a clear pattern: drug offenses are less frequent in the early morning hours, then gradually increase during the day, peaking in the late afternoon and evening. Notice that they rarely happen during the night time which might be an interesting finding to most. This trend likely reflects a combination of human behavior (more activity in public spaces in the evening) and police enforcement patterns. [^1] 
 
 ## Where Do Drug Offenses Happen?
 
@@ -30,7 +30,7 @@ The map below shows the number of drug-related incidents per police district. It
 Or [open the map in a new tab](/assets/drug_map.html).
 
 ---
-Certain areas—particularly the Tenderloin and Southern districts—stand out as hotspots for drug-related crime. These areas have historically been associated with concentrated urban activity, vulnerable populations, and higher visibility of street-level drug use. Tenderloin, in particular, is considered ground zero for San Francisco’s open-air drug market. [^2]
+Certain areas—particularly the Tenderloin and Southern districts—stand out as hotspots for drug-related crime. These areas have historically been associated with concentrated urban activity, vulnerable populations, and higher visibility of street-level drug use. Tenderloin, in particular, is considered ground zero for San Francisco’s open-air drug market. [^2] 
 
 
 ## How Drug Offenses Have Changed Across Districts
