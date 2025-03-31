@@ -33,12 +33,12 @@ Or [open the map in a new tab](/assets/drug_map.html).
 Certain areas—particularly the Tenderloin and Southern districts—stand out as hotspots for drug-related crime. These areas have historically been associated with concentrated urban activity, vulnerable populations, and higher visibility of street-level drug use. Tenderloin, in particular, is considered ground zero for San Francisco’s open-air drug market. [^2]
 
 
-## Interactive District Trends (Bokeh)
+## How Drug Offenses Have Changed Across Districts
 
 
 The following interactive chart shows the number of drug offenses in each district by year from 2003 to 2024. You can click on each district in the legend to isolate trends or mute others for clarity.
 
-<iframe src="/assets/drug_trends_bars.html" width="120%" height="350" frameborder="0"></iframe>
+<iframe src="/assets/drug_trends_bars.html" width="120%" height="380" frameborder="0"></iframe>
 
 Or [open the chart in a new tab](/assets/drug_trends_bars.html).
 
