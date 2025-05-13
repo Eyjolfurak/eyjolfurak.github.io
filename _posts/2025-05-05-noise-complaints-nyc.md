@@ -108,12 +108,9 @@ Even after accounting for population, the same pattern mostly holds, **Bronx and
 This method gives us more confidence that the trends aren’t just about size. The **complaint per capita metric** adds an important fairness check to the data.
 
 ---
-
-<div style="text-align: center;">
-  <iframe src="/assets/nyc_noise_rate.html" width="90%" height="550" frameborder="0" style="display: block; margin: 0 auto; margin-bottom: 0;"></iframe>
-  <p style="margin-top: 8px;"><strong>Fig. 5:</strong> Noise complaints per capita across NYC boroughs.</p>
-</div>
-
+<p style="text-align:center; font-weight:bold; margin-top: 10px;">
+  Fig. 5: Noise complaints per capita across NYC boroughs.
+</p>
 
 
 ## When do noise complaints happen?
