@@ -29,7 +29,10 @@ Author: Eyjólfur Axel Kristjánsson (s242736)
 
 ## Where Do Drug Offenses Happen?
 
-<!-- Visualization: Noise complaints by hour will go here -->
+<!-- Text takk-->
+
+<img src="/assets/img/monthly_complaint_trends.png" alt="Monthly Complaint Trends in NYC" style="width:60%; display:block; margin:auto;" />
+<p style="text-align: center;"><strong>Fig. 1:</strong> Monthly trend of noise complaints in New York City.</p>
 
 ### Borough comparison with trend
 <!-- Visualization: Noise complaints by hour will go here -->
