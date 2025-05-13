@@ -35,7 +35,7 @@ By combining spatial, temporal, and categorical analysis, this notebook offers a
 
 # Where to move within New York City?
 
-New York City is loud but that’s hardly breaking news. But how loud? And where exactly? For anyone planning to move within the city, **noise complaints** are more than just background chatter. They’re a quality of life issue. 
+New York City is loud but that’s hardly breaking news. In fact it is ranked as the second loudest city in the world according to Fox. [7] But how loud? And where exactly? For anyone planning to move within the city, **noise complaints** are more than just background chatter. They’re a quality of life issue. 
 
 Too much noise at night can ruin your sleep, stress you out, and wear down your mental health. This blog explores how different areas in NYC vary in terms of noise complaints. Using data from the city’s 311 service, we break down when and where people report noise, what kind of noise it is, and how trends differ from borough to borough.
 
@@ -131,14 +131,19 @@ This temporal pattern shows just how nocturnal New York's noise can be.
 
 ### Calendar comparison
 
-Not all days are created equal. By mapping noise complaints across days and months, we get a richer view of how **seasonality and holidays** might play a role.
+Not all days are created equal. When we break down noise complaints by calendar day, seasonal patterns and major holidays come into focus.
 
-Take a look at **December 31st**, for instance, a huge spike in complaints right before midnight in both 2023 and 2024. Parties, music, yelling. It all adds up. Other notable peaks appear in early summer and around major holidays.
+For example, **December 31st** sees a huge spike each year as people ring in the new year with parties and fireworks. Other peaks appear in summer and around national holidays. But one date in **2024 stands out above the rest**: **September 15**.
 
-Each day on these calendar heatmaps reflects actual complaints logged to 311. Some neighborhoods seem to be noisy year-round, while others only light up on weekends or holidays.
+That day alone logged **6,546 complaints** — nearly **six times the daily average** of around 924. The next-highest day was December 16 with 5,585. On the calendar heatmap, Sept 15 appears as a major outlier, especially in the 2024 plot.
 
-One day really sticks out in 2024 and that is 2024-09-15. It has a complaint rate of 6546 which approximatelly six times the amount of the avarage complaints per day which is around 924. This day is followed by 2024-12-16 which has 5585 complaints but the 15th of september is clearly way above the rest. 
-Note that the two graphs have different range on the color bars to be able to isolate the days in a more affective way for each of the years.
+So what happened?
+
+While no single confirmed event explains it, several factors likely played a role. It was a **warm Sunday night**, about 79°F and marked the start of **Hispanic Heritage Month** [6], right before several Latin American Independence Days. Many Bronx neighborhoods have large Latino communities, and it’s likely that informal block parties and street celebrations were happening that night. Social media posts promoted **DJ led gatherings** and **salsa events** in the Bronx that weekend, suggesting a citywide celebration vibe.
+
+It's also possible that some **data entry or timestamp errors** contributed to the spike, with multiple complaints being logged under the same date but there's no firm evidence of a systemic glitch. The data points to a real event, even if it's hard to trace to one specific cause.
+
+In short, **Sept 15, 2024**, looks like a perfect storm: great weather, cultural celebrations, and maybe a bit of 311 reporting overload — all adding up to the noisiest day in the dataset.
 
 ---
 <img src="/assets/img/calendar_2024.png" alt="Calendar of Noise Complaints 2024" style="width:80%; display:block; margin:auto;" />
@@ -151,17 +156,22 @@ Note that the two graphs have different range on the color bars to be able to is
 
 
 
-### Final Thoughts
+### Conclusion
 
 If you’ve ever been jolted awake by a neighbor’s sound system or construction hammer at 6 a.m., you already know: **noise defines New York City life**.
 
-But with this data, we don’t have to rely on guesswork. We can map where it happens, when it happens, and what kinds of noise people are reporting. It’s not perfect — not every noise gets reported — but it’s a powerful proxy for what living in each neighborhood might feel like.
+But with this data, we don’t have to rely on guesswork. We can map where it happens, when it happens, and what kinds of noise people are reporting. It’s not perfect, not every noise gets reported but it’s a powerful proxy for what living in each neighborhood might feel like. 
 
-Whether you’re a newcomer trying to pick a quiet block, or a longtime resident wondering if your borough is getting noisier, this analysis offers a data-backed way to tune in to the city’s loudest conversations.
+Whether you’re a newcomer trying to pick a quiet block, or a longtime resident wondering if your borough is getting noisier, this analysis offers a data-backed way to tune in to the city’s loudest conversations. Staten Island is clearly according to this study the quitest area to live in and might be good to consider for those who want a calmer neighborhood. But for those who thrive in the chaos it might be good to consider other areas.
 
 ### Sources
-[1] Time Out New York: https://www.timeout.com/newyork/news/these-nyc-neighborhoods-had-the-most-noise-complaints-last-year-031924  
-[2] Fox5 News: https://www.fox5ny.com/news/noise-tops-nycs-311-complaints-list-2024
-[3] CBS News: https://www.cbsnews.com/newyork/news/noisy-car-meetups-bronx-jerome-ave/#:~:text=The%20New%20York%20City%20Police,in%20many%20of%20the%20cars  
-[4] NYC Weather Archive (The Starry Eye): https://thestarryeye.typepad.com/weather/2024/11/#:~:text=November%202024%20,the%20warmest
-[5] Population of New York Bouroughs: https://www.citypopulation.de/en/usa/newyorkcity/
+
+[1] Time Out New York: [These NYC neighborhoods had the most noise complaints last year](https://www.timeout.com/newyork/news/these-nyc-neighborhoods-had-the-most-noise-complaints-last-year-031924)  
+[2] Fox5 News: [Noise tops NYC’s 311 complaints list for 2024](https://www.fox5ny.com/news/noise-tops-nycs-311-complaints-list-2024)  
+[3] CBS News: [Noisy car meetups in the Bronx](https://www.cbsnews.com/newyork/news/noisy-car-meetups-bronx-jerome-ave/#:~:text=The%20New%20York%20City%20Police,in%20many%20of%20the%20cars)  
+[4] NYC Weather Archive (The Starry Eye): [November 2024 warm spell](https://thestarryeye.typepad.com/weather/2024/11/#:~:text=November%202024%20,the%20warmest)  
+[5] City Population: [Population of New York Boroughs](https://www.citypopulation.de/en/usa/newyorkcity/)  
+[6] National Hispanic Heritage Month: [About Hispanic Heritage Month](https://www.hispanicheritagemonth.gov/about/)
+[7] Fox5 News: [NYC ranks among the noisiest cities in the world](https://www.fox5ny.com/news/most-noisest-city-world-where-does-nyc-rank?utm_source=chatgpt.com)
+
+
