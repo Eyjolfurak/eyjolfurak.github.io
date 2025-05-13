@@ -60,10 +60,9 @@ Or [open the map in a new tab](/assets/nyc_heatmap_map.html).
 The following graph shows a 50.000 random points in new york city to display where the noise complaints are happening. With this interactive map you can further investigate your neighborhood all the way to your street. 
 
 <iframe src="/assets/nyc_noise_map.html" width="100%" height="600" frameborder="0"></iframe>
-<p style="text-align: center;"><strong>Fig. X:</strong> Interactive map of 5,000 NYC noise complaints (2023–2024).</p>
+<p style="text-align: center;"><strong>Fig. X:</strong> Interactive map showing 5,000 sampled noise complaints across NYC.</p>
 
 Or [open the map in a new tab](/assets/nyc_noise_map.html).
-
 
 
 ### Borough comparison over time
