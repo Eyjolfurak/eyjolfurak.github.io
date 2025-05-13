@@ -101,11 +101,11 @@ Watching these trends over time helps us think beyond averages and look at how n
 
 ### Noise complaints in relation to population
 
-Raw complaint numbers don’t tell the full story. Some boroughs are more populous than others, so naturally they’ll have more noise reports. To adjust for that, we looked at the **rate of complaints per 1,000 residents**.
+Raw complaint numbers don’t tell the full story. Some boroughs are more populous than others, so naturally they’ll have more noise reports. To adjust for that, we looked at the **rate of complaints per 1,000 residents**. This was done by listing the amount of residents estimated for each Borough in 2024 from citypopulation.de. [5] That is then divided by the number of complaints. 
 
-Even after accounting for population, the same pattern mostly holds — **Bronx and Brooklyn are still on top**, and Staten Island remains the quietest.
+Even after accounting for population, the same pattern mostly holds, **Bronx and Brooklyn are still on top**, and Staten Island remains the quietest.
 
-This method gives us more confidence that the trends aren’t just about size. The **complaint-per-capita metric** adds an important fairness check to the data.
+This method gives us more confidence that the trends aren’t just about size. The **complaint per capita metric** adds an important fairness check to the data.
 
 ---
 
@@ -116,9 +116,11 @@ Or [open the map in a new tab](/assets/nyc_noise_rate.html).
 
 ## When do noise complaints happen?
 
-Nighttime is when things get loud — or at least when people notice. Across all boroughs, there’s a visible spike in complaints around **11:00 PM**. This lines up with the end of the evening for some... and the start of the party for others.
+Nighttime is when things get loud or at least when people notice. Across all boroughs, there’s a visible spike in complaints around **11:00 PM**. This lines up with the end of the evening for some and the start of the party for others.
 
 Some boroughs show a tighter peak, while others have noise complaints more evenly spread across the evening and night. For residents, this matters: a sharp spike might mean a quick disruption, but a wide spread could mean noise that stretches on for hours.
+
+It is interesting to look how the complaints spread a bit more for some districts than others. For example the time of the complaints vary more in the Bronx than the rest while Staten Island seems to be the narrowest. That allows us to see how some Boroughs receive noice complaints for a longer period than others.
 
 This temporal pattern shows just how nocturnal New York's noise can be.
 
@@ -131,11 +133,12 @@ This temporal pattern shows just how nocturnal New York's noise can be.
 
 Not all days are created equal. By mapping noise complaints across days and months, we get a richer view of how **seasonality and holidays** might play a role.
 
-Take a look at **December 31st**, for instance — a huge spike in complaints right before midnight in both 2023 and 2024. Parties, music, yelling — it all adds up. Other notable peaks appear in early summer and around major holidays.
+Take a look at **December 31st**, for instance, a huge spike in complaints right before midnight in both 2023 and 2024. Parties, music, yelling. It all adds up. Other notable peaks appear in early summer and around major holidays.
 
 Each day on these calendar heatmaps reflects actual complaints logged to 311. Some neighborhoods seem to be noisy year-round, while others only light up on weekends or holidays.
 
-This part of the analysis highlights how noise is woven into the rhythms of city life — not just space, but **time** matters too.
+One day really sticks out in 2024 and that is 2024-09-15. It has a complaint rate of 6546 which approximatelly six times the amount of the avarage complaints per day which is around 924. This day is followed by 2024-12-16 which has 5585 complaints but the 15th of september is clearly way above the rest. 
+Note that the two graphs have different range on the color bars to be able to isolate the days in a more affective way for each of the years.
 
 ---
 <img src="/assets/img/calendar_2024.png" alt="Calendar of Noise Complaints 2024" style="width:80%; display:block; margin:auto;" />
@@ -161,3 +164,4 @@ Whether you’re a newcomer trying to pick a quiet block, or a longtime resident
 [2] Fox5 News: https://www.fox5ny.com/news/noise-tops-nycs-311-complaints-list-2024
 [3] CBS News: https://www.cbsnews.com/newyork/news/noisy-car-meetups-bronx-jerome-ave/#:~:text=The%20New%20York%20City%20Police,in%20many%20of%20the%20cars  
 [4] NYC Weather Archive (The Starry Eye): https://thestarryeye.typepad.com/weather/2024/11/#:~:text=November%202024%20,the%20warmest
+[5] Population of New York Bouroughs: https://www.citypopulation.de/en/usa/newyorkcity/
