@@ -109,12 +109,13 @@ This method gives us more confidence that the trends aren’t just about size. T
 
 ---
 
-<div style="display: flex; justify-content: center;">
-  <iframe src="/assets/nyc_noise_rate.html" width="90%" height="600" frameborder="0"></iframe>
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <iframe src="/assets/nyc_noise_rate.html" width="90%" height="600" frameborder="0" style="margin-bottom: 8px;"></iframe>
+  <p style="margin-top: 0; text-align: center;"><strong>Fig. 5:</strong> Noise complaints per capita across NYC boroughs.</p>
 </div>
-<p style="text-align: center;"><strong>Fig. 5:</strong> Noise complaints per capita across NYC boroughs.</p>
 
-Or [open the map in a new tab](/assets/nyc_noise_rate.html).
+<p style="text-align: center;">Or <a href="/assets/nyc_noise_rate.html">open the map in a new tab</a>.</p>
+
 
 ## When do noise complaints happen?
 
