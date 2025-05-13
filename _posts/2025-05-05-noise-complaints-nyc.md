@@ -153,6 +153,6 @@ But with this data, we don’t have to rely on guesswork. We can map where it ha
 
 Whether you’re a newcomer trying to pick a quiet block, or a longtime resident wondering if your borough is getting noisier, this analysis offers a data-backed way to tune in to the city’s loudest conversations.
 
-### Sources  
-[1]: https://www.timeout.com/newyork/news/these-nyc-neighborhoods-had-the-most-noise-complaints-last-year-031924  
-[2]: https://www.fox5ny.com/news/noise-tops-nycs-311-complaints-list-2024
+### Sources
+[1] Time Out New York: https://www.timeout.com/newyork/news/these-nyc-neighborhoods-had-the-most-noise-complaints-last-year-031924  
+[2] Fox5 News: https://www.fox5ny.com/news/noise-tops-nycs-311-complaints-list-2024
