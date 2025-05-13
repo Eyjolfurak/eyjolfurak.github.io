@@ -46,7 +46,7 @@ defaults:
     values:
       css: "/assets/css/custom.css"
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-slate 
 
 plugins:
   - jekyll-feed
