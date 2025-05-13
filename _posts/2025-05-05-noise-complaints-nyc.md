@@ -17,27 +17,31 @@ Author: Eyjólfur Axel Kristjánsson (s242736)
 
 <br>
 
-# Patterns in Drug Offense Crimes in San Francisco
+# Where to move within New York City?
 
-### When Do Drug Offenses Occur
+<!-- Visualization: Noise complaints by hour will go here -->
 
-<img src="/assets/img/drug_hourly_polar.png" alt="Polar Plot of Drug Offenses" style="width:30%; display:block; margin:auto;" />
-<p style="text-align: center;"><strong>Fig. 1:</strong> Hourly distribution of drug-related offenses in San Francisco (2003–2024).</p>
+
+### What type of noice complaints
+
+<!-- Visualization: Noise complaints by hour will go here -->
+
 
 ## Where Do Drug Offenses Happen?
 
-<iframe src="/assets/drug_map.html" width="100%" height="600" frameborder="0"></iframe>
-<p style="text-align: center;"><strong>Fig. 2:</strong> Geographic distribution of drug-related crimes by police district.</p>
+<!-- Visualization: Noise complaints by hour will go here -->
 
+### Borough comparison with trend
+<!-- Visualization: Noise complaints by hour will go here -->
 
-Or [open the map in a new tab](/assets/drug_map.html).
+### Borough comparison according to population
 
-## How Drug Offenses Have Changed Across Districts
+<!-- Visualization: Noise complaints by hour will go here -->
 
-<iframe src="/assets/drug_trends_bars.html" width="120%" height="395" frameborder="0"></iframe>
-<p style="text-align: center;"><strong>Fig. 3:</strong> Trends in drug offenses by district from 2003 to 2024 (interactive).</p>
+## When do the noice complaints happen
+<!-- Visualization: Noise complaints by hour will go here -->
 
+### Calander comparison
+<!-- Visualization: Noise complaints by hour will go here -->
 
-Or [open the chart in a new tab](/assets/drug_trends_bars.html).
-
-
+### Time of day
