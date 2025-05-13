@@ -87,6 +87,9 @@ In fact, yes especially in the **Bronx**, where the last few months of 2024 show
 
 *Time Out New York* noted the trend in their citywide rankings, although they didn’t speculate on the cause [1]. *Fox5 News* suggested that newer residents might simply be less tolerant of noise and quicker to call 311 [2].
 
+Another reason for this spike might be due to **local events and street partying** in the Bronx, which reportedly continued well into the fall months. CBS News covered loud car meetups and vehicle speaker “sound offs” on Jerome Avenue, noting that police had to intervene after residents filed repeated complaints [3]. These informal parties often take over streets late at night and are difficult to control once they start.
+
+Adding to this, the **unseasonably warm weather in fall 2024** may have encouraged more people to stay outside and celebrate longer than usual. According to NYC weather records, November 2024 was nearly 3.5°F warmer than average, with multiple days feeling more like September than late autumn [4]. That kind of climate easily extends the “block party season” and could help explain the high volume of complaints coming in as late as December.
 
 
 Watching these trends over time helps us think beyond averages and look at how neighborhoods are evolving. Maybe a quiet block in spring becomes unbearable in December.
@@ -156,3 +159,5 @@ Whether you’re a newcomer trying to pick a quiet block, or a longtime resident
 ### Sources
 [1] Time Out New York: https://www.timeout.com/newyork/news/these-nyc-neighborhoods-had-the-most-noise-complaints-last-year-031924  
 [2] Fox5 News: https://www.fox5ny.com/news/noise-tops-nycs-311-complaints-list-2024
+[3] CBS News: https://www.cbsnews.com/newyork/news/noisy-car-meetups-bronx-jerome-ave/#:~:text=The%20New%20York%20City%20Police,in%20many%20of%20the%20cars  
+[4] NYC Weather Archive (The Starry Eye): https://thestarryeye.typepad.com/weather/2024/11/#:~:text=November%202024%20,the%20warmest
