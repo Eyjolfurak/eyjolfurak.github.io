@@ -48,6 +48,10 @@ Author: Eyjólfur Axel Kristjánsson (s242736)
 ## When do the noice complaints happen
 <!-- Visualization: Noise complaints by hour will go here -->
 
+<img src="/assets/img/Polar_time.png" alt="Time of day Noise Complaints in NYC by Borough" style="width:60%; display:block; margin:auto;" />
+<p style="text-align: center;"><strong>Fig. 2:</strong> Types of noise complaints reported in New York City.</p>
+
+
 ### Calander comparison
 <!-- Visualization: Noise complaints by hour will go here -->
 
