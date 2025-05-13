@@ -83,9 +83,10 @@ Or [open the map in a new tab](/assets/nyc_noise_map.html).
 
 Zooming in month-by-month, we get a better sense of how things are changing. Are some boroughs getting noisier?
 
-n fact, yes — especially in the **Bronx**, where the last few months of 2024 show a dramatic spike in complaints. Whether that's due to holiday parties, increased reporting, or something else isn’t entirely clear, but it's a surge that stands out.
+In fact, yes especially in the **Bronx**, where the last few months of 2024 show a dramatic spike in complaints. Whether that's due to holiday parties, increased reporting, or something else isn’t entirely clear, but it's a surge that stands out.
 
-This trend was also noticed by *Time Out New York*, who listed Bronx neighborhoods among the city’s loudest based on 311 data, though they didn’t offer a clear explanation for the increase [^1]. Meanwhile, *Fox5 News* suggested that one possible reason for the rise might be that newer residents are less tolerant of noise and quicker to report disturbances via 311 [^2].
+*Time Out New York* noted the trend in their citywide rankings, although they didn’t speculate on the cause [1]. *Fox5 News* suggested that newer residents might simply be less tolerant of noise and quicker to call 311 [2].
+
 
 
 Watching these trends over time helps us think beyond averages and look at how neighborhoods are evolving. Maybe a quiet block in spring becomes unbearable in December.
@@ -152,7 +153,6 @@ But with this data, we don’t have to rely on guesswork. We can map where it ha
 
 Whether you’re a newcomer trying to pick a quiet block, or a longtime resident wondering if your borough is getting noisier, this analysis offers a data-backed way to tune in to the city’s loudest conversations.
 
-
-### Sources
+### Sources  
 [1]: https://www.timeout.com/newyork/news/these-nyc-neighborhoods-had-the-most-noise-complaints-last-year-031924  
 [2]: https://www.fox5ny.com/news/noise-tops-nycs-311-complaints-list-2024
