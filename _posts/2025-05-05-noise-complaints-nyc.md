@@ -24,14 +24,22 @@ Author: Eyjólfur Axel Kristjánsson (s242736)
 
 This notebook contains the complete analysis including data cleaning, preprocessing, and the code behind all the visualizations in this post.
 
+## Introduction
+
+In this notebook, we explore the noise landscape of New York City using 311 service request data from the past two years. The dataset includes millions of records from residents reporting issues related to noise everything from loud music and parties to banging and construction disturbances.
+
+Since the goal of this project is to understand where one might find peace and quiet within New York City, we begin by identifying which types of noise complaints are most common. From there, we map out where those complaints occur, breaking down the data by borough and neighborhood. We also take a closer look at when these complaints are most likely to happen, revealing patterns by hour and by season.
+
+By combining spatial, temporal, and categorical analysis, this notebook offers a deeper look into how soundi s experienced across the city. Whether you're planning a move or just curious about urban living patterns, this project provides a data driven guide to the noise that shapes daily life in New York.
+
 
 # Where to move within New York City?
 
-New York City is loud — that’s hardly breaking news. But how loud? And where exactly? For anyone planning to move within the city, **noise complaints** are more than just background chatter — they’re a quality-of-life issue. 
+New York City is loud but that’s hardly breaking news. But how loud? And where exactly? For anyone planning to move within the city, **noise complaints** are more than just background chatter. They’re a quality of life issue. 
 
 Too much noise at night can ruin your sleep, stress you out, and wear down your mental health. This blog explores how different areas in NYC vary in terms of noise complaints. Using data from the city’s 311 service, we break down when and where people report noise, what kind of noise it is, and how trends differ from borough to borough.
 
-This isn’t just academic — if you’re someone who values peace and quiet, this information could help guide where to live (or where to avoid).
+This isn’t just academic, if you’re someone who values peace and quiet, this information could help guide where to live (or where to avoid).
 
 ---
 
@@ -39,9 +47,9 @@ This isn’t just academic — if you’re someone who values peace and quiet, t
 
 Noise isn’t just noise. The city categorizes complaints, and one type dominates them all: **loud music and parties**. This type of complaint vastly outnumbers all others, whether you're in the Bronx or Staten Island.
 
-The distribution of complaint types is surprisingly similar across boroughs. However, Brooklyn and Manhattan do show slightly higher counts for **banging and pounding** — those persistent, mechanical or construction-related noises that seem to echo forever in apartment buildings.
+The distribution of complaint types is surprisingly similar across boroughs. However, Brooklyn and Manhattan do show slightly higher counts for **banging and pounding**. Those persistent, mechanical or construction related noises that seem to echo forever in apartment buildings.
 
-This visualization shows which kinds of sounds get on people’s nerves the most — and gives you a clue what kind of noise you’ll be dealing with depending on your borough.
+This visualization shows which kinds of sounds get on people’s nerves the most and gives you a clue what kind of noise you’ll be dealing with depending on your borough.
 
 ---
 <img src="/assets/img/Types_complaint.png" alt="Types of Noise Complaints in NYC" style="width:60%; display:block; margin:auto;" />
@@ -52,9 +60,9 @@ This visualization shows which kinds of sounds get on people’s nerves the most
 
 Geography tells a story of its own. In the interactive heatmap below, you can explore complaint concentrations across neighborhoods. 
 
-The **Bronx emerges as the city’s loudest borough**, followed by **Brooklyn**. **Queens and Manhattan** sit somewhere in the middle, while **Staten Island** is the quietest — at least when it comes to official 311 reports.
+The **Bronx emerges as the city’s loudest borough**, followed by **Brooklyn**. **Queens and Manhattan** sit somewhere in the middle, while **Staten Island** is the quietest, at least when it comes to official 311 reports.
 
-This doesn’t necessarily mean the Bronx is objectively noisier; it could reflect a combination of housing density, population behavior, or even how likely people are to report problems. But the pattern is strong, and it shows where noise is felt — or at least reported — most.
+This doesn’t necessarily mean the Bronx is objectively noisier; it could reflect a combination of housing density, population behavior, or even how likely people are to report problems. But the pattern is strong, and it shows where noise is felt, or at least reported most which gives you a good indication. 
 
 ---
 
@@ -63,7 +71,7 @@ This doesn’t necessarily mean the Bronx is objectively noisier; it could refle
 
 Or [open the map in a new tab](/assets/nyc_heatmap_map.html).
 
-The following graph shows a 50.000 random points in new york city to display where the noise complaints are happening. With this interactive map you can further investigate your neighborhood all the way to your street. 
+The following graph shows a 50.000 random points in new york city to display where the noise complaints are happening. With this interactive map you can further investigate your neighborhood all the way to your street. This gives you an indication on how often a certain street for example might be complaining about noice. This gives you a chance to look for a place with the fewest points on the map which is likely to be a calmer street. Note that since this is only 5000 random points you cant completelly trust this but it should give a good indication.
 
 <iframe src="/assets/nyc_noise_map.html" width="100%" height="600" frameborder="0"></iframe>
 <p style="text-align: center;"><strong>Fig. 3:</strong> Interactive map showing 5,000 sampled noise complaints across NYC.</p>
@@ -75,7 +83,10 @@ Or [open the map in a new tab](/assets/nyc_noise_map.html).
 
 Zooming in month-by-month, we get a better sense of how things are changing. Are some boroughs getting noisier?
 
-In fact, yes — especially in the **Bronx**, where the last few months of 2024 show a dramatic spike in complaints. Whether that's due to holiday parties, increased reporting, or something else isn’t clear — but it's a surge that stands out.
+n fact, yes — especially in the **Bronx**, where the last few months of 2024 show a dramatic spike in complaints. Whether that's due to holiday parties, increased reporting, or something else isn’t entirely clear, but it's a surge that stands out.
+
+This trend was also noticed by *Time Out New York*, who listed Bronx neighborhoods among the city’s loudest based on 311 data, though they didn’t offer a clear explanation for the increase [^1]. Meanwhile, *Fox5 News* suggested that one possible reason for the rise might be that newer residents are less tolerant of noise and quicker to report disturbances via 311 [^2].
+
 
 Watching these trends over time helps us think beyond averages and look at how neighborhoods are evolving. Maybe a quiet block in spring becomes unbearable in December.
 
@@ -140,3 +151,8 @@ If you’ve ever been jolted awake by a neighbor’s sound system or constructio
 But with this data, we don’t have to rely on guesswork. We can map where it happens, when it happens, and what kinds of noise people are reporting. It’s not perfect — not every noise gets reported — but it’s a powerful proxy for what living in each neighborhood might feel like.
 
 Whether you’re a newcomer trying to pick a quiet block, or a longtime resident wondering if your borough is getting noisier, this analysis offers a data-backed way to tune in to the city’s loudest conversations.
+
+
+### Sources
+[1]: https://www.timeout.com/newyork/news/these-nyc-neighborhoods-had-the-most-noise-complaints-last-year-031924  
+[2]: https://www.fox5ny.com/news/noise-tops-nycs-311-complaints-list-2024
