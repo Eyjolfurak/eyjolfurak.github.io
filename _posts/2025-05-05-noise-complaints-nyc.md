@@ -17,6 +17,14 @@ Author: Eyjólfur Axel Kristjánsson (s242736)
 
 <br>
 
+
+### Notebook
+
+[Click here to view the full Jupyter notebook (Finalassigment.ipynb)](/assets/Finalassigment.ipynb)
+
+This notebook contains the complete analysis including data cleaning, preprocessing, and the code behind all the visualizations in this post.
+
+
 # Where to move within New York City?
 
 New York City is loud — that’s hardly breaking news. But how loud? And where exactly? For anyone planning to move within the city, **noise complaints** are more than just background chatter — they’re a quality-of-life issue. 
