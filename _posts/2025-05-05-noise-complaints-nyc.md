@@ -32,7 +32,10 @@ Author: Eyjólfur Axel Kristjánsson (s242736)
 ## Where Do Drug Offenses Happen?
 
 <!-- Text takk-->
+<iframe src="/assets/nyc_heatmap_map.html" width="100%" height="600" frameborder="0"></iframe>
+<p style="text-align: center;"><strong>Fig. 4:</strong> Heatmap of noise complaints across New York City neighborhoods.</p>
 
+Or [open the map in a new tab](/assets/nyc_heatmap_map.html).
 
 
 ### Borough comparison with trend
