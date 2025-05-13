@@ -36,10 +36,8 @@ The distribution of complaint types is surprisingly similar across boroughs. How
 This visualization shows which kinds of sounds get on people’s nerves the most — and gives you a clue what kind of noise you’ll be dealing with depending on your borough.
 
 ---
-
-<!-- Visualization: Noise complaints by hour will go here -->
 <img src="/assets/img/Types_complaint.png" alt="Types of Noise Complaints in NYC" style="width:60%; display:block; margin:auto;" />
-<p style="text-align: center;"><strong>Fig. 2:</strong> Types of noise complaints reported in New York City.</p>
+<p style="text-align: center;"><strong>Fig. 1:</strong> Types of noise complaints reported in New York City.</p>
 
 
 ## Where do noise complaints happen?
@@ -53,14 +51,14 @@ This doesn’t necessarily mean the Bronx is objectively noisier; it could refle
 ---
 
 <iframe src="/assets/nyc_heatmap_map.html" width="100%" height="600" frameborder="0"></iframe>
-<p style="text-align: center;"><strong>Fig. 4:</strong> Heatmap of noise complaints across New York City neighborhoods.</p>
+<p style="text-align: center;"><strong>Fig. 2:</strong> Heatmap of noise complaints across New York City neighborhoods.</p>
 
 Or [open the map in a new tab](/assets/nyc_heatmap_map.html).
 
 The following graph shows a 50.000 random points in new york city to display where the noise complaints are happening. With this interactive map you can further investigate your neighborhood all the way to your street. 
 
 <iframe src="/assets/nyc_noise_map.html" width="100%" height="600" frameborder="0"></iframe>
-<p style="text-align: center;"><strong>Fig. X:</strong> Interactive map showing 5,000 sampled noise complaints across NYC.</p>
+<p style="text-align: center;"><strong>Fig. 3:</strong> Interactive map showing 5,000 sampled noise complaints across NYC.</p>
 
 Or [open the map in a new tab](/assets/nyc_noise_map.html).
 
@@ -76,7 +74,7 @@ Watching these trends over time helps us think beyond averages and look at how n
 ---
 
 <img src="/assets/img/monthly_complaint_trends.png" alt="Monthly Complaint Trends in NYC" style="width:60%; display:block; margin:auto;" />
-<p style="text-align: center;"><strong>Fig. 1:</strong> Monthly trend of noise complaints in New York City.</p>
+<p style="text-align: center;"><strong>Fig. 4:</strong> Monthly trend of noise complaints in New York City.</p>
 
 ### Noise complaints in relation to population
 
@@ -103,7 +101,7 @@ This temporal pattern shows just how nocturnal New York's noise can be.
 
 ---
 <img src="/assets/img/Polar_time.png" alt="Hourly Distribution of Noise Complaints" style="width:60%; display:block; margin:auto;" />
-<p style="text-align: center;"><strong>Fig. 3:</strong> Hourly distribution of noise complaints in New York City.</p>
+<p style="text-align: center;"><strong>Fig. 6:</strong> Hourly distribution of noise complaints in New York City.</p>
 
 
 ### Calendar comparison
@@ -118,12 +116,12 @@ This part of the analysis highlights how noise is woven into the rhythms of city
 
 ---
 <img src="/assets/img/calendar_2024.png" alt="Calendar of Noise Complaints 2024" style="width:80%; display:block; margin:auto;" />
-<p style="text-align: center;"><strong>Fig. 6:</strong> Calendar heatmap of daily noise complaints in 2024.</p>
+<p style="text-align: center;"><strong>Fig. 7:</strong> Calendar heatmap of daily noise complaints in 2024.</p>
 
 <br>
 
 <img src="/assets/img/calendar_2023.png" alt="Calendar of Noise Complaints 2023" style="width:80%; display:block; margin:auto;" />
-<p style="text-align: center;"><strong>Fig. 7:</strong> Calendar heatmap of daily noise complaints in 2023.</p>
+<p style="text-align: center;"><strong>Fig. 8:</strong> Calendar heatmap of daily noise complaints in 2023.</p>
 
 
 
