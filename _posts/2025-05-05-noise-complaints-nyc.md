@@ -8,7 +8,7 @@ categories: dataviz
 <br>
 
 <span style="font-style: italic; font-size: 16px;">
-Assignment 2
+Final Assignment
 </span>
 
 <span style="font-style: italic; font-size: 16px;">
@@ -44,9 +44,14 @@ Or [open the map in a new tab](/assets/nyc_heatmap_map.html).
 <img src="/assets/img/monthly_complaint_trends.png" alt="Monthly Complaint Trends in NYC" style="width:60%; display:block; margin:auto;" />
 <p style="text-align: center;"><strong>Fig. 1:</strong> Monthly trend of noise complaints in New York City.</p>
 
-### Borough comparison according to population
+### Noice complaints with regards to population
 
 <!-- Visualization: Noise complaints by hour will go here -->
+
+<iframe src="/assets/nyc_noise_rate.html" width="100%" height="600" frameborder="0"></iframe>
+<p style="text-align: center;"><strong>Fig. 5:</strong> Noise complaints per capita across NYC boroughs.</p>
+
+Or [open the map in a new tab](/assets/nyc_noise_rate.html).
 
 ## When do the noice complaints happen
 <!-- Visualization: Noise complaints by hour will go here -->
