@@ -148,12 +148,12 @@ It's also possible that some **data entry or timestamp errors** contributed to t
 In short, **Sept 15, 2024**, looks like a perfect storm: great weather, cultural celebrations, and maybe a bit of 311 reporting overload — all adding up to the noisiest day in the dataset.
 
 ---
-<img src="/assets/img/calendar_2024.png" alt="Calendar of Noise Complaints 2024" style="width:80%; display:block; margin:auto;" />
+<img src="/assets/img/calendar_2024.png" alt="Calendar of Noise Complaints 2024" style="width:65%; display:block; margin:auto;" />
 <p style="text-align: center;"><strong>Fig. 7:</strong> Calendar heatmap of daily noise complaints in 2024.</p>
 
 <br>
 
-<img src="/assets/img/calendar_2023.png" alt="Calendar of Noise Complaints 2023" style="width:80%; display:block; margin:auto;" />
+<img src="/assets/img/calendar_2023.png" alt="Calendar of Noise Complaints 2023" style="width:65%; display:block; margin:auto;" />
 <p style="text-align: center;"><strong>Fig. 8:</strong> Calendar heatmap of daily noise complaints in 2023.</p>
 
 
