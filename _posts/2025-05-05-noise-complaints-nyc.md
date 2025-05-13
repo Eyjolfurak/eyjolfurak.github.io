@@ -56,12 +56,22 @@ Or [open the map in a new tab](/assets/nyc_noise_rate.html).
 ## When do the noice complaints happen
 <!-- Visualization: Noise complaints by hour will go here -->
 
+
+### Time of day
 <img src="/assets/img/Polar_time.png" alt="Hourly Distribution of Noise Complaints" style="width:60%; display:block; margin:auto;" />
 <p style="text-align: center;"><strong>Fig. 3:</strong> Hourly distribution of noise complaints in New York City.</p>
-
 
 
 ### Calander comparison
 <!-- Visualization: Noise complaints by hour will go here -->
 
-### Time of day
+<img src="/assets/img/calendar_2024.png" alt="Calendar of Noise Complaints 2024" style="width:80%; display:block; margin:auto;" />
+<p style="text-align: center;"><strong>Fig. 6:</strong> Calendar heatmap of daily noise complaints in 2024.</p>
+
+<br>
+
+<img src="/assets/img/calendar_2023.png" alt="Calendar of Noise Complaints 2023" style="width:80%; display:block; margin:auto;" />
+<p style="text-align: center;"><strong>Fig. 7:</strong> Calendar heatmap of daily noise complaints in 2023.</p>
+
+
+
