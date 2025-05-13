@@ -109,7 +109,9 @@ This method gives us more confidence that the trends aren’t just about size. T
 
 ---
 
-<iframe src="/assets/nyc_noise_rate.html" width="100%" height="600" frameborder="0"></iframe>
+<div style="display: flex; justify-content: center;">
+  <iframe src="/assets/nyc_noise_rate.html" width="90%" height="600" frameborder="0"></iframe>
+</div>
 <p style="text-align: center;"><strong>Fig. 5:</strong> Noise complaints per capita across NYC boroughs.</p>
 
 Or [open the map in a new tab](/assets/nyc_noise_rate.html).
@@ -171,7 +173,8 @@ Whether you’re a newcomer trying to pick a quiet block, or a longtime resident
 [3] CBS News: [Noisy car meetups in the Bronx](https://www.cbsnews.com/newyork/news/noisy-car-meetups-bronx-jerome-ave/#:~:text=The%20New%20York%20City%20Police,in%20many%20of%20the%20cars)  
 [4] NYC Weather Archive (The Starry Eye): [November 2024 warm spell](https://thestarryeye.typepad.com/weather/2024/11/#:~:text=November%202024%20,the%20warmest)  
 [5] City Population: [Population of New York Boroughs](https://www.citypopulation.de/en/usa/newyorkcity/)  
-[6] National Hispanic Heritage Month: [About Hispanic Heritage Month](https://www.hispanicheritagemonth.gov/about/)
+[6] National Hispanic Heritage Month: [About Hispanic Heritage Month](https://www.hispanicheritagemonth.gov/about/)  
 [7] Fox5 News: [NYC ranks among the noisiest cities in the world](https://www.fox5ny.com/news/most-noisest-city-world-where-does-nyc-rank?utm_source=chatgpt.com)
+
 
 
